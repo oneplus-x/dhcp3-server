@@ -3,6 +3,11 @@ Description
 Install and configure a DHCP3 server, optionally configuring it to automatically
 register hosts with a Bind9 name server.
 
+Installation
+===========
+sudo apt install isc-dhcp-server
+
+
 Requirements
 ============
 Ubuntu. Other platforms were not tested.
